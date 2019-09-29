@@ -12,7 +12,7 @@ class DeserializeRequestEventListener
     public function onKernelController(ControllerEvent $event)
     {
 
-        var_dump('jeroenfrenken bundle werkt');
+        var_dump('jeroenfrenken bundle werkt'); exit;
 
     }
 
