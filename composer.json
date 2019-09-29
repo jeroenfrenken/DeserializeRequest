@@ -1,0 +1,16 @@
+{
+  "name": "jeroenfrenken/deserialize-request",
+  "type": "symfony-bundle",
+  "license": "MIT",
+  "description": "DeserializeRequest for Symfony",
+  "keywords": ["deserialize request", "symfony"],
+  "homepage": "https://github.com/jeroenfrenken/DeserializeRequest",
+  "require": {
+    "php": "~7.1",
+    "symfony/framework-bundle": "^4.3"
+  },
+  "autoload": {
+    "psr-0": { "JeroenFrenken\\DeserializeRequest": "" }
+  },
+  "target-dir": "JeroenFrenken/DeserializeRequest"
+}
