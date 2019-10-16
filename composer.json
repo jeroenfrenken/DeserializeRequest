@@ -10,7 +10,6 @@
     "symfony/framework-bundle": "^4.3"
   },
   "autoload": {
-    "psr-0": { "JeroenFrenken\\DeserializeRequest": "" }
-  },
-  "target-dir": "JeroenFrenken/DeserializeRequest"
+    "psr-0": { "JeroenFrenken\\DeserializeRequest": "src/" }
+  }
 }
