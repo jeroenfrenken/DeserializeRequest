@@ -1,4 +1,4 @@
-jeroenfrenken.deserializerequest.eventlistener:
+JeroenFrenken\DeserializeRequest\EventListener\DeserializeRequestEventListener:
   class: JeroenFrenken\DeserializeRequest\EventListener\DeserializeRequestEventListener
   autowire: true
   tags:
