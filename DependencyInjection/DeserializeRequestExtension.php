@@ -1,5 +1,5 @@
 <?php
-namespace src\DependencyInjection;
+namespace JeroenFrenken\DeserializeRequest\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
